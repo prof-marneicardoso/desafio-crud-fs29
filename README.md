@@ -521,20 +521,6 @@ location.reload();
 
 > Nota: O imóvel de id 6 tem status: false e não deve aparecer na listagem pública. Serve para validar se o filtro de status está funcionando.
 
-### Arquitetura de Pastas (sugestão)
-
-buenas-imoveis/
-├── index.html              ← Home (listagem + cadastro + filtros)
-├── imovel.html             ← Página de detalhe (abre em nova aba)
-├── css/
-│   └── style.css           ← Estilos (variáveis, grid, responsivo)
-├── js/
-│   ├── app.js              ← CRUD + filtros + renderização
-│   └── imovel.js           ← Lógica da página de detalhe
-├── assets/
-│   └── favicon.svg
-└── README.md
-
 ## Próximas Sprints
 
 ```

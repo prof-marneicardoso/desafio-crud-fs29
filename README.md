@@ -44,6 +44,8 @@ Este projeto simula uma demanda real de desenvolvimento. O aluno assume o papel 
 
 "Marnei, tô precisando de um site urgente! Hoje controlo tudo numa planilha e tô perdendo negócio. Preciso cadastrar meus imóveis pelo celular ou computador, com fotos, preço, localização, tudo. Quero que o pessoal que entra no site veja os imóveis bem bonitos com foto, e consiga ver se é pra VENDA ou ALUGUEL. Os preços têm que aparecer formatados bonitinho, tipo R$ 450.000,00. Preciso poder corrigir erros de digitação (editar), excluir imóveis vendidos, e o mais importante: NÃO POSSO PERDER OS DADOS quando fechar o navegador! Ah, e preciso separar se é casa, apartamento, terreno ou sala, e se é residencial ou comercial. Tem imóvel que eu quero deixar cadastrado mas não aparecer no site ainda, tipo um rascunho. E quero um link do Google Maps em cada imóvel."
 
+### Mensagem para a equipe:
+
 "A Dona Helen Bueno precisa desse MVP rodando o mais rápido possível. Nesta primeira sprint, o sistema vai funcionar 100% no navegador usando localStorage. Quando ela aprovar o visual e as funcionalidades, a gente conecta num Back-End de verdade. O site vai ter duas partes: uma página Home pública onde qualquer pessoa vê os imóveis ativos, e ao clicar em um imóvel, abre uma página de detalhe com todas as informações. O cadastro, edição e exclusão ficam na própria Home por enquanto (na sprint 2 a gente separa num painel admin com login). Organizei o desenvolvimento em Tasks. Sigam a ordem, façam commits organizados e caprichem, a cliente vai ver o resultado. Boora!"
 
 ### O que a cliente precisa (URGENTE):
